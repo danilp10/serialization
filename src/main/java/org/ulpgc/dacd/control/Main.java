@@ -9,7 +9,7 @@ import java.io.*;
 
 import static org.ulpgc.dacd.control.SerializationExercises.Exercise1.saveToFile;
 //import static org.ulpgc.dacd.control.SerializationExercises.Exercise2.loadMovieJsonFromFile;
-//import static org.ulpgc.dacd.control.SerializationExercises.Exercise2.loadTheaterJsonFromFile;
+import static org.ulpgc.dacd.control.SerializationExercises.Exercise2.loadTheaterJsonFromFile;
 import static org.ulpgc.dacd.control.SerializationExercises.Exercise2.loadSessionJsonFromFile;
 
 public class Main {
