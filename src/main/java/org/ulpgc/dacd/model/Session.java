@@ -1,7 +1,6 @@
 package org.ulpgc.dacd.model;
 
 import java.io.Serializable;
-import java.util.Objects;
 
 public final class Session implements Serializable {
     //private final String film;
